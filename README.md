@@ -27,5 +27,5 @@ A powerful and efficient **Todo List application** built using **Hibernate** and
 ## 💻 Setup Instructions
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/todo-list-hibernate.git
+   git clone https://github.com/Ganesh8296/todo-list-hibernate.git
    cd todo-list-hibernate
